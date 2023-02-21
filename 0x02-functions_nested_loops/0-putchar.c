@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  *main -main function
  * _putchar : prints the alphabets
