@@ -3,8 +3,8 @@
  *main -main function
  * _putchar : prints the alphabets
  * Return: always 0
- * /
-int main(void)
+ */
+int main(void){
 
 	_putchar('_');
 	_putchar('p');
@@ -16,5 +16,5 @@ int main(void)
 	_putchar('r');
 	_putchar('/n')
 	retrn(0);
-	
+}
 	
