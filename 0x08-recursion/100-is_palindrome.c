@@ -2,7 +2,8 @@
 #include <string.h>
 
 /**
- * is_palindrome a function that checks for a palindrome
+ * _strlen - Entry point
+ * is_palindrome a function that checks for a palindrome string
  * @s: string being checked
  * Return: 1 if it is a palindrome otherwise 0
  */
